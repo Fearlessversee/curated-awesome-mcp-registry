@@ -23,6 +23,10 @@
 ### 🧠 Corporate OSINT & Intelligence
 - **AI Researcher MCP**: Deep company dossier compilation and executive leadership research.
 
+
+### ⚡ Energy, Grid & Infrastructure
+- **[DC Hub MCP](https://github.com/azmartone67/dchub-mcp-server)**: Live data layer for data-center site selection; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (94 tools, free to start) at https://dchub.cloud/mcp.
+
 ### 🛡️ Systems & Security
 - **Phantom Fortress MCP**: Kernel-level cyber telemetry inspection and threat analysis.
 
