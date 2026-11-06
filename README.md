@@ -23,6 +23,9 @@
 ### 🧠 Corporate OSINT & Intelligence
 - **AI Researcher MCP**: Deep company dossier compilation and executive leadership research.
 
+### 💼 Jobs & Hiring Data
+- **[JobsPipe MCP](https://github.com/jobspipe/mcp)**: Search live job postings from 30+ ATS feeds and job boards ([docs](https://docs.jobspipe.dev/ai-agents/mcp), endpoint `https://mcp.jobspipe.dev/mcp`).
+
 ### 🛡️ Systems & Security
 - **Phantom Fortress MCP**: Kernel-level cyber telemetry inspection and threat analysis.
 
